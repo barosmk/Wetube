@@ -4,8 +4,8 @@ Cloning Youtube with Vanilla and NodeJS
 
 ## Pages:
 
-- [ ] Home  
-- [x] Join  
+- [ ] Home
+- [x] Join
 - [x] Login
 - [x] Search
 - [ ] User Detail
@@ -14,13 +14,3 @@ Cloning Youtube with Vanilla and NodeJS
 - [ ] Upload
 - [ ] Video Detail
 - [ ] Edit Video
-
-
-What the?? `function hello = hoho`
-> hoho.  
-> that.  
-> boy.
-
-```javascript
-const does = not work
-```
