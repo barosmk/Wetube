@@ -1,5 +1,6 @@
 export const home = (req, res) => res.render("home", { pageTitle: 'Home' });
 export const search = (req, res) => {
+    
     const searchingBy = req.query.term;
     res.render("search", { pageTitle: 'Search', searchingBy });
 
